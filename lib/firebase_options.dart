@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB4s4oHmq4m7PcRpdUICYjsuqpxhvHCB-M',
+    apiKey: 'first api key',
     appId: '1:803500116731:web:7df2f92187f5eb12687e5e',
     messagingSenderId: '803500116731',
     projectId: 'reminderapp-c75c8',
@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAJfVC10WdNV5-UOagAa3cNbsCMhmzKQE8',
+    apiKey: 'second api key',
     appId: '1:803500116731:android:77c9cdd1820666ce687e5e',
     messagingSenderId: '803500116731',
     projectId: 'reminderapp-c75c8',
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD_K7gtcTqtlXEdrIorFigJXnUrUH5cmio',
+    apiKey: 'third api key',
     appId: '1:803500116731:ios:beb0c4a3aeee672c687e5e',
     messagingSenderId: '803500116731',
     projectId: 'reminderapp-c75c8',
@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD_K7gtcTqtlXEdrIorFigJXnUrUH5cmio',
+    apiKey: 'fourth api key',
     appId: '1:803500116731:ios:beb0c4a3aeee672c687e5e',
     messagingSenderId: '803500116731',
     projectId: 'reminderapp-c75c8',
